@@ -1,6 +1,6 @@
 portaudio-fpc
 =============
-[portaudio](http://www.portaudio.com/) header binding for the Free Pascal Compiler aka FPC
+[PortAudio](http://www.portaudio.com/) header binding for the Free Pascal Compiler aka FPC
 
 Download
 --------
