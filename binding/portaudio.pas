@@ -59,7 +59,7 @@ uses
 
 const
   LIB_PORTAUDIO = 'libportaudio-2.dll';
-  PORTAUDIO_VERSION = '190600_20161012';
+  PORTAUDIO_VERSION = '190600_20161030';
 
 (** Retrieve the release number of the currently running PortAudio build.
  For example, for version "19.5.1" this will return 0x00130501.
